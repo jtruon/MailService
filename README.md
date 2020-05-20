@@ -6,7 +6,7 @@ Description: This is the mailing service using FreeMarker Template to consume ht
 
 HOW TO RUN
 ===================================
-Edit: application.properties email for your sender                                           
+Edit: Put the sender email credential in application.properties (Make sure it's less secure)                                           
 ===================================				      
 Postman: POST localhost:8082/sendEmail
 ===================================
