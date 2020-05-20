@@ -3,10 +3,11 @@ MaillingService
 
 Description: This is the mailing service using FreeMarker Template to consume html as the body of the email.
 
- HOW TO RUN
-=====================================================================================
-                                             
-				      
+
+HOW TO RUN
+===================================
+Edit: application.properties email for your sender                                           
+===================================				      
 Postman: POST localhost:8082/sendEmail
 ===================================
 RequestBody: 
@@ -22,4 +23,4 @@ Response
     "message": "Email send to : example@mail.com",
     "status": true
 }
-=====================================================================================
+====================================
