@@ -1,7 +1,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Java Pecan Surge Mail</title>
+<title>Approved Requested MailService</title>
 </head>
 
 <body>
@@ -15,17 +15,14 @@
 							style="background-color: #d3be6c; font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: #000000; padding: 0px 15px 10px 15px;">
 							
 							<div style="font-size: 48px; color:blue;">
-								<b>Java Pecan Surge MailService</b>
+								<b>Approved Requested MailService</b>
 							</div>
 							
 							<div style="font-size: 24px; color: #555100;">
-								<br> Sending Email using Spring Boot with <b>FreeMarker
-									template !!! <br>
+								<br> Congratulation you have been approved!<br>
 							</div>
 							<div>
-								<br> Java Pecan Surge MailService is a mailing service<br> 
-								Pecan Surge is the Best Camunda Team Found in 2019 By Joey Truong<br>
-								This Team is THE BEAST<br> 
+								<br> This is the Approve Email<br> 
 								<br>"Sharing the knowledge is biggest learning" <br> <br>
 								<br> <br> <b>${name}</b><br>${location}<br>
 								<br>
